@@ -1,4 +1,4 @@
-# dojo-PaginaWeb
+# Dojo - Páginas Web
 
 ## O que é uma página web?
 
