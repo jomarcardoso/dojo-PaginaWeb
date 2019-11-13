@@ -1,8 +1,49 @@
 # dojo-PaginaWeb
 
-- Como funciona uma página web?
-- Usamos tanta tecnologia na renderização das páginas, mas o que tudo isso gera?
-- Como meu navegador usa meus arquivos?
-- Por que não escrevemos o mesmo código que o navegador lê?
+## O que é uma página web?
+
+Simplesmente um arquivo HTML 
+
+### De onde vem?
+
+### O que vêm na primeira requisição?
+
+### Navegador
+
+O que ele faz com esse textão?
+
+### O que são os assets?
+
+JS, CSS, imgs, json.
+
+## Renderização
+
+### Lado do servidor
+
+### Lado do cliente
+
+## Navegação
+
+### MPA
+
+### SPA
+
+## Transpiladores
+
+- browsers defasados
+- minificar
+- organizar o código
+
+### HTML
+
+pug, jsp...
+
+### CSS
+
+sass, stylus, less
+
+### JS
+
+Babel, Typescript
 
 
