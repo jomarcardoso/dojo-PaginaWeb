@@ -4,7 +4,7 @@
 
 <style></style>
 
-<img src="https://user-images.githubusercontent.com/27368585/68813713-6d106800-0655-11ea-81ac-f9f66e9eb63d.png" />
+<img style="width: 20%;"src="https://user-images.githubusercontent.com/27368585/68813713-6d106800-0655-11ea-81ac-f9f66e9eb63d.png" />
 
 ![html](https://user-images.githubusercontent.com/27368585/68813713-6d106800-0655-11ea-81ac-f9f66e9eb63d.png)
 ![js](https://user-images.githubusercontent.com/27368585/68813714-6d106800-0655-11ea-9a3d-9ef52fa29dac.png)
