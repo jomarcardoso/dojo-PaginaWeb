@@ -1,10 +1,10 @@
 # Dojo - Páginas Web
 
-<img style="width: 20%;" src="https://user-images.githubusercontent.com/27368585/68813713-6d106800-0655-11ea-81ac-f9f66e9eb63d.png" />
+<img width="100px" src="https://user-images.githubusercontent.com/27368585/68813713-6d106800-0655-11ea-81ac-f9f66e9eb63d.png" />
 
 <img width="100px" src="https://user-images.githubusercontent.com/27368585/68813714-6d106800-0655-11ea-9a3d-9ef52fa29dac.png" />
 
-![](https://user-images.githubusercontent.com/27368585/68813737-84e7ec00-0655-11ea-9736-9b534ac189ab.jpg | width=100)
+<img width="100px" src="https://user-images.githubusercontent.com/27368585/68813737-84e7ec00-0655-11ea-9736-9b534ac189ab.jpg" />
 
 ## O que é uma página web?
 
