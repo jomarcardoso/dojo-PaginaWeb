@@ -58,7 +58,14 @@ pug, jsp...
 
 ### CSS
 
-sass, stylus, less
+Aninhamento.
+
+Código compatível com o navegador. Alguns navegadores abandonados ou atrasado não implementaram o suporte as novidades do CSS, por exemplo:
+
+- variáveis CSS: não suportado no IE
+- `text-size-adjust`: precisar do prefixo `-webkit-` em algum Chrome não atualizado
+
+sass, stylus, less, postCSS
 
 ### JS
 
