@@ -65,6 +65,8 @@ Código compatível com o navegador. Alguns navegadores abandonados ou atrasado 
 - variáveis CSS: não suportado no IE
 - `text-size-adjust`: precisar do prefixo `-webkit-` em algum Chrome não atualizado
 
+Gerar um bundle para logo o usuário ter todo o CSS disponível.
+
 sass, stylus, less, postCSS
 
 ### JS
