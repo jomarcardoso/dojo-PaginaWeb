@@ -12,6 +12,12 @@ Simplesmente um arquivo HTML
 
 ### De onde vem?
 
+Podemos acessar o arquivo diretamente, porém isso limita-nos a fazer chamadas apenas em seu escopo e não permite chamadas assíncronas, como módulos ES6.
+
+Podemos criar um servidor HTTP local para simular a internet.
+
+Na internet vêm de um servidor HTTP, através de sua porta 80. Sem me aprofundar muito (por que não estudei isso) o servidor tem um software que cria sockets...
+
 ### O que é o protocolo HTTP?
 
 ### O que vêm na primeira requisição?
@@ -36,7 +42,14 @@ JS, CSS, imgs, json.
 
 ### MPA
 
+Como vamos para próxima página?
+Como era um formulário?
+
 ### SPA
+
+`e.preventDefault()`
+ajax
+`history.pushState`
 
 ## Transpiladores
 
@@ -76,6 +89,6 @@ Cada evolução do JavaScript é uma versão do ECMAScript e o navegador deve at
 [W3Schools - Browser support for ES](https://www.w3schools.com/js/js_versions.asp)
 [Can I Use](https://caniuse.com/#feat=es6-module)
 
-Babel, Typescript
+Babel, Typescript, webpack, npm
 
 
