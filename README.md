@@ -62,7 +62,10 @@ sass, stylus, less
 
 ### JS
 
-![image](https://user-images.githubusercontent.com/27368585/68814564-eb6e0980-0657-11ea-887d-e5b36baaf5e2.png)
+Cada evolução do JavaScript é uma versão do ECMAScript e o navegador deve atualizar-se para suportar.
+
+[W3Schools - Browser support for ES](https://www.w3schools.com/js/js_versions.asp)
+[Can I Use](https://caniuse.com/#feat=es6-module)
 
 Babel, Typescript
 
