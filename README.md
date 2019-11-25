@@ -36,13 +36,46 @@ Um arquivo HTML. HTML é uma linguagem de marcação interpretada pelo navegador
 
 ### Navegador
 
-O que ele faz com esse textão?
+O que ele faz com esse textão? Assim como os destacadores de sintaxe e as linguagens de programação fazem, o navegador interpreta o que veio.
+
+```html
+<html>
+  <head>
+    <title>Olá mundo</title>
+  </head>
+  <body>
+    <h1 id="title">Olá mundo</h1>
+  </body>
+</html>
+```
+
+Depois ele começa a "pedir" pelos conteúdo referenciados, os "assets".
+
+```
+<img src="img.jpg" />
+<script src="main.js"></script>
+<link rel="stylesheet" type="text/css" href="main.css">
+```
 
 ### O que são os assets?
 
-JS, CSS, imgs, json.
+Arquivos estáticos normalmente vindos de uma CDN.
+
+JS, CSS, imgs.
+
+### Servidor e CDN
 
 ## Renderização
+
+Após o navegador interpretar o conteúdo HTML, este será colocado na tela, após isso conforme chegam os arquivos estáticos a página vai mudando. Alguns navegadores optam por segurar a renderização até a chegada do CSS.
+
+Nessa etapa muitas técnicas são importantes para a melhor experiência do usuário, entre elas:
+
+- evitar saltos de renderização
+- placeholders
+- renderização estática
+- renderização do lado do servidor
+- estilo de primeira quebra
 
 ### Lado do servidor
 
