@@ -20,6 +20,16 @@ Na internet vêm de um servidor HTTP, através de sua porta 80. Sem me aprofunda
 
 ### O que é o protocolo HTTP?
 
+É a forma do cliente se comunicar com o servidor.
+
+#### Métodos
+
+GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS e CONNECT
+
+#### Códigos de estado
+
+200, 404, 503...
+
 ### O que vêm na primeira requisição?
 
 Um arquivo HTML. HTML é uma linguagem de marcação interpretada pelo navegador.
