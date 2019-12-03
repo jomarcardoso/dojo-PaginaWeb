@@ -57,13 +57,21 @@ Depois ele começa a "pedir" pelos conteúdo referenciados, os "assets".
 <link rel="stylesheet" type="text/css" href="main.css">
 ```
 
-### O que são os assets?
+## Assets?
 
 Arquivos estáticos normalmente vindos de uma CDN.
 
 JS, CSS, imgs.
 
 ### Servidor e CDN
+
+### Cache
+
+Cache não acontece com marcação, apenas com assets.
+
+### CORS
+
+Protege o usuário e protege o servidor.
 
 ## Renderização
 
