@@ -59,7 +59,7 @@ Depois ele começa a "pedir" pelos conteúdo referenciados, os "assets".
 
 ## Assets?
 
-Arquivos estáticos normalmente vindos de uma CDN.
+Arquivos estáticos normalmente vindos de uma CDN. No navegador os assets são buscador por via HTTP pelo método GET e esse método o navegador faz cache.
 
 JS, CSS, imgs.
 
