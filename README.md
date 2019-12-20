@@ -73,6 +73,12 @@ Cache não acontece com marcação, apenas com assets.
 
 Protege o usuário e protege o servidor.
 
+#### Quais solicitações usam o CORS? (MDN)
+
+Chamadas XMLHttpRequest ou Fetch API pela comunicação entre origens diferentes.
+
+Web Fonts (para o uso de fontes pelo cross-domain em @font do CSS), para que os servidores possam implantar fontes TrueType que só podem ser carregadas em origens diferentes e usadas por sites com autorização para isso.
+
 ## Renderização
 
 Após o navegador interpretar o conteúdo HTML, este será colocado na tela, após isso conforme chegam os arquivos estáticos a página vai mudando. Alguns navegadores optam por segurar a renderização até a chegada do CSS.
