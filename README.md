@@ -81,6 +81,8 @@ Web Fonts (para o uso de fontes pelo cross-domain em @font do CSS), para que os 
 
 ## Renderização
 
+https://developers.google.com/web/updates/2019/02/rendering-on-the-web
+
 Após o navegador interpretar o conteúdo HTML, este será colocado na tela, após isso conforme chegam os arquivos estáticos a página vai mudando. Alguns navegadores optam por segurar a renderização até a chegada do CSS.
 
 Nessa etapa muitas técnicas são importantes para a melhor experiência do usuário, entre elas:
@@ -91,9 +93,21 @@ Nessa etapa muitas técnicas são importantes para a melhor experiência do usu�
 - renderização do lado do servidor
 - estilo de primeira quebra
 
-### Lado do servidor
+### Renderização do lado do servidor
 
-### Lado do cliente
+O arquivo HTML é montado assim que solicitado. A primeira renderização é rápida, porém tem um custo alto de CPU no servidor.
+
+### Renderização estática
+
+Todas as páginas já estão montadas, também tem uma renderização rápida, não usa muito CPU, porém devem estar prontas todas as páginas possíveis de acessar.
+
+### Renderização do lado do cliente
+
+O arquivo HTML vem apenas com o head e o conteúdo é montado com JavaScript. A primeira renderização é rápida e o conteúdo é dinâmico. Depende do lado do cliente para definir se será rápido.
+
+### Renderização hidratada
+
+O mesmo conteúdo que seria renderizado no lado do cliente já vem com o HTMl estático pronto.
 
 ## Navegação
 
