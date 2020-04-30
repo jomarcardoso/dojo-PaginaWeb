@@ -8,7 +8,7 @@
 
 ## O que é uma página web?
 
-Simplesmente um arquivo HTML 
+Simplesmente um arquivo HTML. Um HTML estático já está renderizado, então o servidor responde por padrão com o arquivo, enquanto um HTML dinâmico há um controle de rotas no servidor e uma aplicação que irá criar na hora o HTML e devolver.
 
 ### De onde vem?
 
