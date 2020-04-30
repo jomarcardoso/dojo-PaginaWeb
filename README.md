@@ -127,16 +127,19 @@ O mesmo conteúdo que seria renderizado no lado do cliente já vem com o HTMl es
 
 ## Navegação
 
-### MPA
+### Multi Page Application (MPA)
 
-Como vamos para próxima página?
-Como era um formulário?
+Como vamos para próxima página? Através de um link, ou do retorno de um formulário.
+O que é a próxima página? Outro arquivo HTML.
+Como era um formulário? Não tinha AJAX, mandava-se o conteúdo para o servidor e a resposta ja abria em outra página, logo, uma boa resposta era um outro HTML.
 
-### SPA
+### Single Page Application (SPA)
 
-`e.preventDefault()`
-ajax
-`history.pushState`
+1 HTML só, não recarrega mais a página. É mais rápido, porém mais complexo de implementar (por isso das bibliotecas JS).
+
+- `e.preventDefault()`
+- ajax
+- `history.pushState`
 
 ## Transpiladores
 
