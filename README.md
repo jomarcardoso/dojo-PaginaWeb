@@ -8,7 +8,19 @@
 
 ## O que é uma página web?
 
-Simplesmente um arquivo HTML. Um HTML estático já está renderizado, então o servidor responde por padrão com o arquivo, enquanto um HTML dinâmico há um controle de rotas no servidor e uma aplicação que irá criar na hora o HTML e devolver.
+Simplesmente um arquivo HTML.
+
+### Tipos de HTML
+
+Um HTML estático já está renderizado, então o servidor responde por padrão com o arquivo, enquanto um HTML dinâmico há um controle de rotas no servidor e uma aplicação que irá criar na hora o HTML e devolver.
+
+#### Vantagens do HTML estático
+
+- Não usa muito servidor.
+
+#### Vantagens do HTML dinâmico
+
+- Não precisa criar um HTML para cada possibilidade de combinação para uma página, por exemplo uma página de categoria com um filtro bem complexo, ou então um página de produto para cada produto.
 
 ### De onde vem?
 
