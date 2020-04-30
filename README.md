@@ -79,7 +79,11 @@ JS, CSS, imgs.
 
 ### Cache
 
-Cache não acontece com marcação, apenas com assets.
+Cache não acontece com marcação, apenas com assets e apenas no método GET, a solução mais comum quando não quer um cache é motificar a requisição e ela ainda acessar o mesmo endpoint.
+
+```
+?timestamp=23453245
+```
 
 ### CORS
 
